@@ -23,11 +23,9 @@ Ensure you have the following installed:
 
 1. Create a project in eclipse and add this code in your class file
 2. **Add required Selenium dependencies** if you're using Maven:
-
-```xml
 <dependency>
-  <groupId>org.seleniumhq.selenium</groupId>
-  <artifactId>selenium-java</artifactId>
-  <version>4.33.0</version>
+    <groupId>org.seleniumhq.selenium</groupId>
+    <artifactId>selenium-java</artifactId>
+    <version>4.33.0</version>
 </dependency>
 
